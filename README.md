@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kirsten (rhynes with "gears-bin") @ReginaPaxis
-- 
+
 - I'm a Web Developer in #Cohort43 of @JunoCollegeOfTechnology's Bootcamp 🥾🏕 
 - 📚 I’m currently learning Front End Web Development 
--
+
 - 📧 kirstenmhattori@gmail.com 
 - 🐥 https://twitter.com/kirstenHattori
 - 🖇 linkedin.com/in/kirsten-hattori-9bb40b245
