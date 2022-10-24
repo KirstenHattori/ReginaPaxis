@@ -5,7 +5,7 @@
 
 - 📧 kirstenmhattori@gmail.com 
 - 🐥 https://twitter.com/kirstenHattori
-- 🖇 https://linkedin.com/in/kirsten-hattori-9bb40b245
+- 🖇 https://linkedin.com/in/kirstenHattori
 - 📆 https://calendly.com/kirsten_codes
 - 📓 https://medium.com/@kirstenmhattori
 
